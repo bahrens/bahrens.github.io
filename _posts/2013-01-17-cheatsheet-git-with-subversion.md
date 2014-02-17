@@ -11,7 +11,7 @@ categories:
 - cheatsheet
 ---
 
-Previously, I blogged about using [Git with Subversion](/blog/2012/12/13/git-workflow-for-subversion/). Sometimes though, I like concise pieces of information, without all the details. For that reason, here is a cheatsheet on the steps for using Git with Subversion:
+Previously, I blogged about using [Git with Subversion](/2012/12/13/git-workflow-for-subversion/). Sometimes though, I like concise pieces of information, without all the details. For that reason, here is a cheatsheet on the steps for using Git with Subversion:
 
 {% highlight posh %}
 git svn rebase
