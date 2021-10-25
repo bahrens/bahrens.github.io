@@ -1,1 +1,7 @@
 permalink: /:year/:month/:day/:title
+
+title: Bahrens.github.io
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
